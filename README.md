@@ -6,6 +6,9 @@ Welcome.
 
 This repository contains EFI partition files for Acer A515-52G MX Hackintoshed laptop.
 
+*****YOU MUST CREATE YOUR OWN SYSUUID, MLB, SERIAL BEFORE BOOTING YOUR LAPTOP WITH THIS EFI*****
+sysUUID, MLD, Serial must be created for your own.
+
 Acer A515-52G Specs: 
  intel i5-8265u (UHD620)
  mx150 external GPU
